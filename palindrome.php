@@ -8,5 +8,6 @@
 username: <input type="text" name="user">
 <button type="submit" name="check">check</button>
 </form>
+
 </body>
 </html>

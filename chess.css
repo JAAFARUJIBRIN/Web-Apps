@@ -1,0 +1,571 @@
+.hd{
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+   border: 20px  solid green;
+   position: absolute;
+   left:450px;
+
+}
+body{ 
+	background-color: #0084b4;
+	margin: 0px;
+	padding: 0px;
+}
+footer{
+	
+	text-align:left;
+	position: fixed;
+	top:590px;
+	right: 500px;
+	color: purple;
+}
+
+
+.one{
+	width: 480px;
+	height: 480px;
+    position: relative;
+    top: 95px;
+    left: 450px;
+    border: 6px solid purple;
+    background-color: pink;
+
+}
+.a{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: blue;
+}
+.b{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 0px;
+	left: 60px;
+	background-color: yellow;
+}
+.c{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 0px;
+	left: 120px;
+	background-color: blue;
+}
+.d{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 0px;
+	left: 180px;
+	background-color: yellow;
+}
+.e{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 0px;
+	left: 240px;
+	background-color: blue;
+}
+.f{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 0px;
+	left: 300px;
+	background-color: yellow;
+}
+.g{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 0px;
+	left: 360px;
+	background-color: blue;
+}
+.h{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 0px;
+	left: 420px;
+	background-color: yellow;
+}
+
+
+.a1{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 60px;
+	left: 0px;
+	background-color: yellow;
+}
+.b1{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 60px;
+	left: 60px;
+	background-color: blue;
+}
+.c1{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 60px;
+	left: 120px;
+	background-color: yellow;
+}
+.d1{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 60px;
+	left: 180px;
+	background-color: blue;
+}
+.e1{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 60px;
+	left: 240px;
+	background-color: yellow;
+}
+.f1{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 60px;
+	left: 300px;
+	background-color: blue;
+}
+.g1{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 60px;
+	left: 360px;
+	background-color: yellow;
+}
+.h1{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 60px;
+	left: 420px;
+	background-color: blue;
+}
+
+
+
+
+.a2{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 120px;
+	left: 0px;
+	background-color: blue;
+}
+.b2{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 120px;
+	left: 60px;
+	background-color: yellow;
+}
+.c2{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 120px;
+	left: 120px;
+	background-color: blue;
+}
+.d2{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 120px;
+	left: 180px;
+	background-color: yellow;
+}
+.e2{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 120px;
+	left: 240px;
+	background-color: blue;
+}
+.f2{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 120px;
+	left: 300px;
+	background-color: yellow;
+}
+.g2{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 120px;
+	left: 360px;
+	background-color: blue;
+}
+.h2{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 120px;
+	left: 420px;
+	background-color: yellow;
+}
+
+
+
+
+.a3{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 180px;
+	left: 0px;
+	background-color: yellow;
+}
+.b3{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 180px;
+	left: 60px;
+	background-color: blue;
+}
+.c3{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 180px;
+	left: 120px;
+	background-color: yellow;
+}
+.d3{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 180px;
+	left: 180px;
+	background-color: blue;
+}
+.e3{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 180px;
+	left: 240px;
+	background-color: yellow;
+}
+.f3{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 180px;
+	left: 300px;
+	background-color: blue;
+}
+.g3{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 180px;
+	left: 360px;
+	background-color: yellow;
+}
+.h3{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 180px;
+	left: 420px;
+	background-color: blue;
+}
+
+
+
+.a4{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 240px;
+	left: 0px;
+	background-color: blue;
+}
+.b4{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 240px;
+	left: 60px;
+	background-color: yellow;
+}
+.c4{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 240px;
+	left: 120px;
+	background-color: blue;
+}
+.d4{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 240px;
+	left: 180px;
+	background-color: yellow;
+}
+.e4{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 240px;
+	left: 240px;
+	background-color: blue;
+}
+.f4{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 240px;
+	left: 300px;
+	background-color: yellow;
+}
+.g4{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 240px;
+	left: 360px;
+	background-color: blue;
+}
+.h4{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 240px;
+	left: 420px;
+	background-color: yellow;
+}
+
+
+
+.a5{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 300px;
+	left: 0px;
+	background-color: yellow;
+}
+.b5{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 300px;
+	left: 60px;
+	background-color: blue;
+}
+.c5{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 300px;
+	left: 120px;
+	background-color: yellow;
+}
+.d5{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 300px;
+	left: 180px;
+	background-color: blue;
+}
+.e5{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 300px;
+	left: 240px;
+	background-color: yellow;
+}
+.f5{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 300px;
+	left: 300px;
+	background-color: blue;
+}
+.g5{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 300px;
+	left: 360px;
+	background-color: yellow;
+}
+.h5{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 300px;
+	left: 420px;
+	background-color: blue;
+}
+
+
+
+
+.a6{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 360px;
+	left: 0px;
+	background-color: blue;
+}
+.b6{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 360px;
+	left: 60px;
+	background-color: yellow;
+}
+.c6{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 360px;
+	left: 120px;
+	background-color: blue;
+}
+.d6{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 360px;
+	left: 180px;
+	background-color: yellow;
+}
+.e6{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 360px;
+	left: 240px;
+	background-color: blue;
+}
+.f6{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 360px;
+	left: 300px;
+	background-color: yellow;
+}
+.g6{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 360px;
+	left: 360px;
+	background-color: blue;
+}
+.h6{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 360px;
+	left: 420px;
+	background-color: yellow;
+}
+
+
+
+
+
+.a7{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 420px;
+	left: 0px;
+	background-color: yellow;
+}
+.b7{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 420px;
+	left: 60px;
+	background-color: blue;
+}
+.c7{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 420px;
+	left: 120px;
+	background-color: yellow;
+}
+.d7{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 420px;
+	left: 180px;
+	background-color: blue;
+}
+.e7{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 420px;
+	left: 240px;
+	background-color: yellow;
+}
+.f7{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 420px;
+	left: 300px;
+	background-color: blue;
+}
+.g7{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 420px;
+	left: 360px;
+	background-color: yellow;
+}
+.h7{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 420px;
+	left: 420px;
+	background-color: blue;
+}
